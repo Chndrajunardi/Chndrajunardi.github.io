@@ -9,8 +9,8 @@ layout: post
 
 Berikut adalah beberapa foto yang saya ambil di beberapa Job Pekerjaan Saya:
 
-![Desktop View](/assets/images/patung.jpg)
-*Patung Tuhan YESUS Memberkati - Tana Toraja*
+<!-- ![Desktop View](/assets/images/patung.jpg)
+*Patung Tuhan YESUS Memberkati - Tana Toraja* -->
 <!-- 
 ![Desktop View](/assets/images/RAR02755.jpg)
 *Natal UMUM Gereja KIBAID 2025*
