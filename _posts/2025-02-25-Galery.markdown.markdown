@@ -1,5 +1,5 @@
 ---
-title: "Fotographer"
+title: "Galery"
 date: 2025-02-25
 categories: [Job]
 layout: post
@@ -9,18 +9,18 @@ layout: post
 
 Berikut adalah beberapa foto yang saya ambil:
 
-<img src="/assets/IMG_4781.jpg" alt="Foto 1" width="1920" height="1080">
+![Desktop View](/assets/IMG_4781.jpg){: width="700" height="400" }
 *Patung Tuhan YESUS Memberkati - Tana Toraja*
 
-<img src="/assets/RAR02755.jpg" alt="Foto 2" width="1920" height="1080">
+![Desktop View](/assets/RAR02755.jpg){: width="700" height="400" }
 *Natal UMUM Gereja KIBAID 2025*
 
-<img src="/assets/IMG_7743-2.jpg" alt="Foto 3" width="1920" height="1080">
+![Desktop View](/assets/IMG_7743-2.jpg){: width="700" height="400" }
 *Foto BUPATI Tana Toraja*
 
-<img src="/assets/IMG_7744-2.jpg" alt="Foto 4" width="1920" height="1080">
+![Desktop View](/assets/IMG_7744-2.jpg){: width="700" height="400" }
 *Foto Wakil BUPATI Tana Toraja*
 
-<img src="/assets/IMG_5203.png" alt="Foto 5" width="1920" height="1080">
+![Desktop View](/assets/IMG_5203.png){: width="700" height="400" }
 *Ollon - Tana Toraja*
 
