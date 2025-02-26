@@ -29,7 +29,7 @@ Here are some of my projects:
     🔗 [View Project](https://yourprojectdemo.com)
 
 - *Mayoral Candidate Website Project* (HTML, CSS)  
-    🔗 [View Project](https://yourprojectdemo.com)
+    🔗 [View Project](https://github.com/Chndrajunardi/MEDIA-CENTER-ZATRIA)
 
 ## Contact
 
