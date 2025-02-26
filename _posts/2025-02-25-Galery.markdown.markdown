@@ -7,20 +7,20 @@ layout: post
 
 # Galeri Foto
 
-Berikut adalah beberapa foto yang saya ambil:
+Berikut adalah beberapa foto yang saya ambil di beberapa Job Pekerjaan Saya:
 
-![Desktop View](/assets/IMG_4781.jpg){: width="700" height="400" }
+![Desktop View](/assets/images/IMG_4781.jpg){: width="700" height="400" }
 *Patung Tuhan YESUS Memberkati - Tana Toraja*
 
-![Desktop View](/assets/RAR02755.jpg){: width="700" height="400" }
+![Desktop View](/assets/images/RAR02755.jpg){: width="700" height="400" }
 *Natal UMUM Gereja KIBAID 2025*
 
-![Desktop View](/assets/IMG_7743-2.jpg){: width="700" height="400" }
+![Desktop View](/assets/images/IMG_7743-2.jpg){: width="700" height="400" }
 *Foto BUPATI Tana Toraja*
 
-![Desktop View](/assets/IMG_7744-2.jpg){: width="700" height="400" }
+![Desktop View](/assets/images/IMG_7744-2.jpg){: width="700" height="400" }
 *Foto Wakil BUPATI Tana Toraja*
 
-![Desktop View](/assets/IMG_5203.png){: width="700" height="400" }
+![Desktop View](/assets/images/IMG_5203.png){: width="700" height="400" }
 *Ollon - Tana Toraja*
 
