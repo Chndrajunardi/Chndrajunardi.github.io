@@ -29,6 +29,7 @@ The mayoral candidate website project was a great learning experience. It provid
 - **Mobile Application**: Develop a mobile app to provide on-the-go access to campaign information.
 - **Live Streaming**: Implement live streaming capabilities for campaign events and speeches.
 
+## Documentasi
 ![Desktop View](/assets/img/Web_ZATRIA.jpeg)
 *WEB ZADRAK - ERIANTO UNTUK KAMPANYE PEMILIHAN BUPATI & WAKIL BUPATI TANA TORAJA* 
 
