@@ -26,3 +26,13 @@ During the campaign, we faced several challenges, including:
 ## Final Outcome
 
 The hard work and dedication of the media team yielded satisfying results. Dr. Zadrak Tombeg successfully won the election with a significant number of votes. This experience not only enriched my skills in the media field but also provided personal satisfaction from contributing to the development of Tana Toraja.
+
+## Documentasi
+![Desktop View](/assets/img/IMG_1252.jpg)
+*Kampanye AKBAR ZATRIA* 
+
+![Desktop View](/assets/img/IMG_1354.jpg)
+*Kampanye AKBAR ZATRIA* 
+
+![Desktop View](/assets/img/IMG_7041.jpg)
+*Kampanye AKBAR ZATRIA* 
