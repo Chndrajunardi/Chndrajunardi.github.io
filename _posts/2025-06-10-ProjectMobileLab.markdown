@@ -1,26 +1,33 @@
-# Mobile Lab Project Results
+---
+title: "To-Do List Application"
+date: 2025-06-12
+categories: [Projects, Mobile]
+tags: [Java, SQL, Mobile Development, UI/UX, To-Do List]
+---
+
+# To-Do List Application Results
 
 ## Project Description
-The Mobile Lab Project aims to develop a mobile application that helps users to [state your app's purpose, e.g., manage data, perform monitoring, etc.].
+The To-Do List Application is designed to help users efficiently manage their daily tasks. The app allows users to add, edit, and delete tasks, ensuring better organization and productivity.
 
 ## Main Features
-- [Feature 1: Brief description]
-- [Feature 2: Brief description]
-- [Feature 3: Brief description]
+- **Task Management:** Add, edit, and remove to-do items easily.
+- **Task Status:** Mark tasks as completed or pending.
+- **Data Persistence:** All tasks are stored securely using an SQL database.
 
 ## Technologies Used
-- [Framework/Library Name]
-- [Programming Language]
-- [Supporting Tools]
+- **Java:** Main programming language for application development.
+- **SQL:** Database solution for storing and managing tasks.
 
 ## Results and Learnings
 During this project, I learned:
-- [Learning 1]
-- [Learning 2]
-- [Learning 3]
+- How to implement CRUD operations using SQL in a mobile application.
+- Best practices for designing user-friendly interfaces in Java.
+- Efficient data handling and storage techniques.
 
 ## Documentation
-![App Screenshot](your-image-link.png)
+![To-Do List App Screenshot](/assets/img/ProjectLab.jpeg)
 
 ## Conclusion
-This Mobile Lab Project provided valuable experience in mobile application development and improved my problem-solving skills as well as team collaboration.
+This To-Do List Application project enhanced my skills in Java and SQL, improved my understanding of mobile app development, and strengthened my ability to create practical solutions for everyday needs.
+
