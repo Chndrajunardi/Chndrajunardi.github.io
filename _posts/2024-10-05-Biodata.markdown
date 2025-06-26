@@ -4,36 +4,45 @@ title: "Chandra Junardi Tandirerung - Biodata"
 date: 2025-02-18
 author: Chandra
 categories: Biodata
-tags: [Programming, Java, Python, C++]
+tags: [Programming, Java, Python, C++, Mobile Development, UI/UX]
 ---
 
-# About Me
+# 👋 About Me
 
-Hello! I’m *Chandra Junardi Tandirerung*, a passionate programmer who started learning to code in **2023**.
-I love exploring new technologies, solving problems, and building projects that make an impact.
+Hi, I'm **Chandra Junardi Tandirerung**—a passionate programmer with a love for technology and problem-solving. I began my coding journey in **2023** and have been exploring new tools and building impactful projects ever since.
 
-## Study & Experience
+---
 
-- 🖥️ *Started Programming:* 2023 - Present
-- 💻 *Main Languages:* Java, Python, C++, PHP
-- 🚀 *Favorite Tech:* Laravel, React.js, MySQL
-- 🎯 *Interests:* Data Science, Web Development, Software Engineering
-- 🖥️ *Social Media Specialist at dr. Zadrak Tombeg:* 2023 - Present
-- 🖥️ *Chief Marketing Officer at PO Reitama Trans:* 2024 - Present
+## 🎓 Study & Experience
 
-## Projects
+- **Started Programming:** 2023 – Present  
+- **Main Languages:** Java, Python, C++, PHP  
+- **Favorite Tech:** Laravel, React.js, MySQL  
+- **Interests:** Data Science, Web Development, Software Engineering  
+- **Social Media Specialist** at dr. Zadrak Tombeg (2023 – Present)  
+- **Chief Marketing Officer** at PO Reitama Trans (2024 – Present)  
 
-Here are some of my projects:
+---
 
-- *E-Commerce Platform* (Laravel, PHP, MySQL)  
-    🔗 [View Project](https://yourprojectdemo.com)
+## 🚀 Projects
 
-- *Mayoral Candidate Website Project* (HTML, CSS)  
-    🔗 [View Project](https://github.com/Chndrajunardi/MEDIA-CENTER-ZATRIA)
+Here are a few projects I've worked on:
 
-## Contact
+- **E-Commerce Platform**  
+    *Built with Laravel, PHP, MySQL*  
+    [🔗 View Project](https://yourprojectdemo.com)
 
-- 📧 *Email:* jeixyhehe@gmail.com
-- 🔗 *GitHub:* [github.com/Chndrajunardi](https://github.com/Chndrajunardi)
+- **Mayoral Candidate Website**  
+    *Developed using HTML & CSS*  
+    [🔗 View Project](https://github.com/Chndrajunardi/MEDIA-CENTER-ZATRIA)
 
-Thanks for visiting my blog! 🚀
+---
+
+## 📬 Contact
+
+- **Email:** [jeixyhehe@gmail.com](mailto:jeixyhehe@gmail.com)
+- **GitHub:** [github.com/Chndrajunardi](https://github.com/Chndrajunardi)
+
+---
+
+Thanks for stopping by my blog! 🚀
