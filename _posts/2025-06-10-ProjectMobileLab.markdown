@@ -27,6 +27,9 @@ The **To-Do List Application** empowers users to take control of their daily rou
 ## 🖼️ App Preview
 ![To-Do List App Screenshot](/assets/img/ProjectLab.jpeg)
 
+- **To-Do List App**   
+    [🔗 GitHub Repo](https://github.com/Chndrajunardi/Mobile_Project_2025)
+
 ## 📝 Reflections
 Building this To-Do List Application was a rewarding journey. It sharpened my Java and SQL skills, deepened my understanding of mobile development, and inspired me to create solutions that make everyday life easier.
 

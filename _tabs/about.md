@@ -11,6 +11,8 @@ Welcome to my digital space! I'm a passionate programmer, tech enthusiast, and l
 
 ## Education & Experience
 
+- **Undergraduate Student at Hasanuddin University**  
+    Information Systems, 4th Semester
 - **Started Coding:** 2023 – Present  
 - **Languages I Love:** `Java`, `Python`, `C++`, `PHP`  
 - **Tech Stack:** `Laravel`, `React.js`, `MySQL`  

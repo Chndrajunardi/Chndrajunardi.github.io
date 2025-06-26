@@ -1,35 +1,39 @@
 ---
-title: "Galery"
+title: "Gallery"
 date: 2025-02-25
 categories: [Job]
 layout: post
 
 ---
 
-# Galeri Foto
+# Photo Gallery
 
-Berikut adalah beberapa foto yang saya ambil di beberapa Job Pekerjaan Saya:
+Here are some photos I captured during various work assignments:
 
-![Desktop View](/assets/img/patung.jpg)
-*Patung Tuhan YESUS Memberkati - Tana Toraja* 
+<div align="center">
 
-![Desktop View](/assets/img/RAR02755.jpg)
-*Perayaan Natal UMUM Gereja KIBAID 2024* 
+![Christ Blessing Statue - Tana Toraja](/assets/img/patung.jpg)
+*Christ Blessing Statue - Tana Toraja*
 
-![Desktop View](/assets/img/RAR01096.jpg)
-*Perayaan Natal UMUM Gereja KIBAID 2024* 
+![Christmas Celebration at KIBAID Church 2024](/assets/img/RAR02755.jpg)
+*Christmas Celebration at KIBAID Church 2024*
 
-![Desktop View](/assets/img/IMG_7743-2.jpg)
-*Foto BUPATI Tana Toraja*
+![Christmas Celebration at KIBAID Church 2024](/assets/img/RAR01096.jpg)
+*Christmas Celebration at KIBAID Church 2024*
 
-![Desktop View](/assets/img/IMG_5203.png)
+![Regent of Tana Toraja](/assets/img/IMG_7743-2.jpg)
+*Regent of Tana Toraja*
+
+![Ollon - Tana Toraja](/assets/img/IMG_5203.png)
 *Ollon - Tana Toraja*
 
-![Desktop View](/assets/img/IMG_1252.jpg)
-*Kampanye AKBAR ZATRIA* 
+![Grand Campaign of ZATRIA](/assets/img/IMG_1252.jpg)
+*Grand Campaign of ZATRIA*
 
-![Desktop View](/assets/img/IMG_1354.jpg)
-*Kampanye AKBAR ZATRIA* 
+![Grand Campaign of ZATRIA](/assets/img/IMG_1354.jpg)
+*Grand Campaign of ZATRIA*
 
-![Desktop View](/assets/img/IMG_7041.jpg)
-*Kampanye AKBAR ZATRIA* 
+![Grand Campaign of ZATRIA](/assets/img/IMG_7041.jpg)
+*Grand Campaign of ZATRIA*
+
+</div>
