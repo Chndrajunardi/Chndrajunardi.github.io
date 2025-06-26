@@ -1,16 +1,15 @@
 ---
----
 icon: fas fa-info-circle
 order: 4
 ---
 
-# 👋 Hello, I'm **Chandra Junardi Tandirerung**
+# Hello, I'm **Chandra Junardi Tandirerung**
 
 Welcome to my digital space! I'm a passionate programmer, tech enthusiast, and lifelong learner. Since embarking on my coding journey in **2023**, I've been on a mission to turn ideas into impactful solutions and craft meaningful digital experiences.
 
 ---
 
-## 🎓 Education & Experience
+## Education & Experience
 
 - **Started Coding:** 2023 – Present  
 - **Languages I Love:** `Java`, `Python`, `C++`, `PHP`  
@@ -23,7 +22,7 @@ Welcome to my digital space! I'm a passionate programmer, tech enthusiast, and l
 
 ---
 
-## 🚀 Projects That Excite Me
+## Projects That Excite Me
 
 - **E-Commerce Platform**  
     *A robust online store built with Laravel, PHP, and MySQL.*  
@@ -35,7 +34,7 @@ Welcome to my digital space! I'm a passionate programmer, tech enthusiast, and l
 
 ---
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 - Mastering advanced backend with Laravel
 - Creating dynamic UIs with React.js
@@ -43,7 +42,7 @@ Welcome to my digital space! I'm a passionate programmer, tech enthusiast, and l
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 - **Email:** [jeixyhehe@gmail.com](mailto:jeixyhehe@gmail.com)
 - **GitHub:** [github.com/Chndrajunardi](https://github.com/Chndrajunardi)
@@ -53,4 +52,4 @@ Welcome to my digital space! I'm a passionate programmer, tech enthusiast, and l
 > *"Code is like humor. When you have to explain it, it’s bad."*  
 > — Cory House
 
-Thanks for stopping by! 🚀 Let’s build something amazing together.
+Thanks for stopping by! Let’s build something amazing together.
