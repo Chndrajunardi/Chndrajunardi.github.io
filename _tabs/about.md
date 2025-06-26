@@ -4,11 +4,11 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hello! My name is Chndra Junardi. I am a software developer with a deep interest in web technology, programming, and application development. My educational background is in Information Systems, having graduated from Universitas Hasanuddin. During my studies, I gained a strong foundation in both technical and analytical aspects of information technology, which has greatly influenced my approach to problem-solving and innovation.
+Hello! I'm Chndra Junardi, a passionate software developer with a strong focus on web technologies, programming, and application development. I am currently a fifth-semester student in Information Systems at Universitas Hasanuddin, where I am building a solid foundation in both technical and analytical aspects of IT—skills that shape my approach to problem-solving and innovation.
 
-Professionally, I have built my career as a social media specialist, graphic designer, and photographer. My work in social media management has allowed me to develop effective communication strategies and engage diverse audiences. As a graphic designer, I enjoy creating visually appealing content that supports branding and storytelling. Photography, on the other hand, has taught me to pay attention to detail and capture moments that convey meaningful messages.
+My journey so far includes experiences as a social media specialist, graphic designer, and photographer. Managing social media has helped me develop effective communication strategies and engage diverse audiences. As a graphic designer, I enjoy creating visually compelling content that enhances branding and storytelling. Photography has sharpened my attention to detail and my ability to capture moments that tell meaningful stories.
 
-Through this website, I aim to share my experiences, projects, and insights related to technology, design, and digital media. I believe in continuous learning and collaboration, and I hope my journey can inspire and help others who are passionate about the tech industry. Thank you for taking the time to visit and learn more about me!
+Through this website, I share my experiences, projects, and insights on technology, design, and digital media. I believe in lifelong learning and collaboration, and I hope my journey inspires and supports others who are passionate about the tech industry.
 
 Thank you for visiting my About page!
 
