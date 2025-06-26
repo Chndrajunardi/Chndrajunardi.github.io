@@ -3,32 +3,32 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# Hello, I'm **Chandra Junardi Tandirerung**
+# 👋 Hi, I'm **Chandra Junardi Tandirerung**
 
-Welcome to my digital space! I'm a passionate programmer, tech enthusiast, and lifelong learner. Since embarking on my coding journey in **2023**, I've been on a mission to turn ideas into impactful solutions and craft meaningful digital experiences.
+Welcome to my digital corner! I'm a passionate programmer, tech enthusiast, and lifelong learner. Since starting my coding journey in **2023**, I've been dedicated to transforming ideas into impactful solutions and building meaningful digital experiences.
 
 ---
 
-## Education & Experience
+## 🎓 Education & Experience
 
-- **Undergraduate Student at Hasanuddin University**  
-    Information Systems, 4th Semester
-- **Started Coding:** 2023 – Present  
-- **Languages I Love:** `Java`, `Python`, `C++`, `PHP`  
-- **Tech Stack:** `Laravel`, `React.js`, `MySQL`  
-- **Interests:** Data Science, Web Development, Software Engineering  
+- **Undergraduate Student**  
+    *Hasanuddin University — Information Systems, 4th Semester*
+- **Coding Since:** 2023  
+- **Favorite Languages:** `Java`, `Python`, `C++`, `PHP`
+- **Tech Stack:** `Laravel`, `React.js`, `MySQL`
+- **Interests:** Data Science, Web Development, Software Engineering
 - **Social Media Specialist**  
-    *dr. Zadrak Tombeg* (2023 – Present)  
+    *dr. Zadrak Tombeg* (2023 – Present)
 - **Chief Marketing Officer**  
-    *PO Reitama Trans* (2024 – Present)  
+    *PO Reitama Trans* (2024 – Present)
 
 ---
 
-## Projects That Excite Me
+## 🚀 Projects I'm Proud Of
 
 - **E-Commerce Platform**  
     *A robust online store built with Laravel, PHP, and MySQL.*  
-    [🔗 Live Demo](https://yourprojectdemo.com)
+    [🔗 GitHub Repo](https://yourprojectdemo.com)
 
 - **Mayoral Candidate Website**  
     *A sleek, responsive campaign site using HTML & CSS.*  
@@ -36,7 +36,7 @@ Welcome to my digital space! I'm a passionate programmer, tech enthusiast, and l
 
 ---
 
-## Currently Exploring
+## 🌱 What I'm Exploring Now
 
 - Mastering advanced backend with Laravel
 - Creating dynamic UIs with React.js
@@ -44,14 +44,14 @@ Welcome to my digital space! I'm a passionate programmer, tech enthusiast, and l
 
 ---
 
-## Connect With Me
+## 🤝 Let's Connect!
 
 - **Email:** [jeixyhehe@gmail.com](mailto:jeixyhehe@gmail.com)
 - **GitHub:** [github.com/Chndrajunardi](https://github.com/Chndrajunardi)
 
 ---
 
-> *"Falling in love is like watching the sunset you know it won’t last forever, but you still choose to stay and admire every second."*  
+> *"Falling in love is like watching the sunset—you know it won’t last forever, but you still choose to stay and admire every second."*  
 > — Cacan
 
-Thanks for stopping by! Let’s build something amazing together.
+Thanks for visiting! Excited to connect and create something amazing together.
