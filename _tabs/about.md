@@ -1,48 +1,56 @@
 ---
-layout: post
-title: "Chandra Junardi Tandirerung - Biodata"
-date: 2025-02-18
-author: Chandra
-categories: Biodata
-tags: [Programming, Java, Python, C++, Mobile Development, UI/UX]
+---
+icon: fas fa-info-circle
+order: 4
 ---
 
-# 👋 About Me
+# 👋 Hello, I'm **Chandra Junardi Tandirerung**
 
-Hi, I'm **Chandra Junardi Tandirerung**—a passionate programmer with a love for technology and problem-solving. I began my coding journey in **2023** and have been exploring new tools and building impactful projects ever since.
+Welcome to my digital space! I'm a passionate programmer, tech enthusiast, and lifelong learner. Since embarking on my coding journey in **2023**, I've been on a mission to turn ideas into impactful solutions and craft meaningful digital experiences.
 
 ---
 
-## 🎓 Study & Experience
+## 🎓 Education & Experience
 
-- **Started Programming:** 2023 – Present  
-- **Main Languages:** Java, Python, C++, PHP  
-- **Favorite Tech:** Laravel, React.js, MySQL  
+- **Started Coding:** 2023 – Present  
+- **Languages I Love:** `Java`, `Python`, `C++`, `PHP`  
+- **Tech Stack:** `Laravel`, `React.js`, `MySQL`  
 - **Interests:** Data Science, Web Development, Software Engineering  
-- **Social Media Specialist** at dr. Zadrak Tombeg (2023 – Present)  
-- **Chief Marketing Officer** at PO Reitama Trans (2024 – Present)  
+- **Social Media Specialist**  
+    *dr. Zadrak Tombeg* (2023 – Present)  
+- **Chief Marketing Officer**  
+    *PO Reitama Trans* (2024 – Present)  
 
 ---
 
-## 🚀 Projects
-
-Here are a few projects I've worked on:
+## 🚀 Projects That Excite Me
 
 - **E-Commerce Platform**  
-    *Built with Laravel, PHP, MySQL*  
-    [🔗 View Project](https://yourprojectdemo.com)
+    *A robust online store built with Laravel, PHP, and MySQL.*  
+    [🔗 Live Demo](https://yourprojectdemo.com)
 
 - **Mayoral Candidate Website**  
-    *Developed using HTML & CSS*  
-    [🔗 View Project](https://github.com/Chndrajunardi/MEDIA-CENTER-ZATRIA)
+    *A sleek, responsive campaign site using HTML & CSS.*  
+    [🔗 GitHub Repo](https://github.com/Chndrajunardi/MEDIA-CENTER-ZATRIA)
 
 ---
 
-## 📬 Contact
+## 🌱 Currently Exploring
+
+- Mastering advanced backend with Laravel
+- Creating dynamic UIs with React.js
+- Diving into data analysis & visualization in Python
+
+---
+
+## 📬 Connect With Me
 
 - **Email:** [jeixyhehe@gmail.com](mailto:jeixyhehe@gmail.com)
 - **GitHub:** [github.com/Chndrajunardi](https://github.com/Chndrajunardi)
 
 ---
 
-Thanks for stopping by my blog! 🚀
+> *"Code is like humor. When you have to explain it, it’s bad."*  
+> — Cory House
+
+Thanks for stopping by! 🚀 Let’s build something amazing together.
