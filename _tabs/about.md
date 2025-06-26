@@ -51,7 +51,7 @@ Welcome to my digital space! I'm a passionate programmer, tech enthusiast, and l
 
 ---
 
-> *"Code is like humor. When you have to explain it, it’s bad."*  
-> — Cory House
+> *"Falling in love is like watching the sunset you know it won’t last forever, but you still choose to stay and admire every second."*  
+> — Cacan
 
 Thanks for stopping by! Let’s build something amazing together.
