@@ -5,6 +5,8 @@ categories: [Projects, Mobile]
 tags: [Java, SQL, Mobile Development, UI/UX, To-Do List]
 ---
 
+![Header Image](/assets/img/ProjectLab.jpeg)
+
 # 🚀 To-Do List Application: Organize Your Day, Boost Your Productivity!
 
 ## 📱 Project Overview
